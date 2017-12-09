@@ -1,0 +1,7 @@
+name: Config Page Domain context
+type: module
+description: Domain context for config pages
+core: 8.x
+package: Custom
+dependencies:
+  - config_pages
